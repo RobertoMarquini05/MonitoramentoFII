@@ -1,0 +1,102 @@
+{
+  "Lajes": [
+    {
+      "FII": "HGRU11",
+      "Pre\u00E7oAtual": "\uD83D\uDCB0 R$ 126,49",
+      "FechamentoAnterior": "\uD83D\uDCC9 R$ 126,70",
+      "VariacaoDiaria": "\uD83D\uDD01 -0,17%",
+      "Media5Dias": "\uD83D\uDCC6 R$ 0,00",
+      "Tendencia": "\uD83D\uDCC8 Baixa (0,00%)",
+      "DiasEmAlta": "\uD83D\uDCC5 0",
+      "DiasEmBaixa": "\uD83D\uDCC5 0"
+    },
+    {
+      "FII": "PVBI11",
+      "Pre\u00E7oAtual": "\uD83D\uDCB0 R$ 76,68",
+      "FechamentoAnterior": "\uD83D\uDCC9 R$ 76,58",
+      "VariacaoDiaria": "\uD83D\uDD01 0,13%",
+      "Media5Dias": "\uD83D\uDCC6 R$ 0,00",
+      "Tendencia": "\uD83D\uDCC8 Baixa (0,00%)",
+      "DiasEmAlta": "\uD83D\uDCC5 0",
+      "DiasEmBaixa": "\uD83D\uDCC5 0"
+    }
+  ],
+  "Shoppings": [
+    {
+      "FII": "XPML11",
+      "Pre\u00E7oAtual": "\uD83D\uDCB0 R$ 106,00",
+      "FechamentoAnterior": "\uD83D\uDCC9 R$ 106,90",
+      "VariacaoDiaria": "\uD83D\uDD01 -0,84%",
+      "Media5Dias": "\uD83D\uDCC6 R$ 0,00",
+      "Tendencia": "\uD83D\uDCC8 Baixa (0,00%)",
+      "DiasEmAlta": "\uD83D\uDCC5 0",
+      "DiasEmBaixa": "\uD83D\uDCC5 0"
+    },
+    {
+      "FII": "HSML11",
+      "Pre\u00E7oAtual": "\uD83D\uDCB0 R$ 83,90",
+      "FechamentoAnterior": "\uD83D\uDCC9 R$ 84,35",
+      "VariacaoDiaria": "\uD83D\uDD01 -0,53%",
+      "Media5Dias": "\uD83D\uDCC6 R$ 0,00",
+      "Tendencia": "\uD83D\uDCC8 Baixa (0,00%)",
+      "DiasEmAlta": "\uD83D\uDCC5 0",
+      "DiasEmBaixa": "\uD83D\uDCC5 0"
+    }
+  ],
+  "Logistica": [
+    {
+      "FII": "HGLG11",
+      "Pre\u00E7oAtual": "\uD83D\uDCB0 R$ 160,50",
+      "FechamentoAnterior": "\uD83D\uDCC9 R$ 160,50",
+      "VariacaoDiaria": "\uD83D\uDD01 0,00%",
+      "Media5Dias": "\uD83D\uDCC6 R$ 0,00",
+      "Tendencia": "\uD83D\uDCC8 Baixa (0,00%)",
+      "DiasEmAlta": "\uD83D\uDCC5 0",
+      "DiasEmBaixa": "\uD83D\uDCC5 0"
+    },
+    {
+      "FII": "VILG11",
+      "Pre\u00E7oAtual": "\uD83D\uDCB0 R$ 88,61",
+      "FechamentoAnterior": "\uD83D\uDCC9 R$ 88,70",
+      "VariacaoDiaria": "\uD83D\uDD01 -0,10%",
+      "Media5Dias": "\uD83D\uDCC6 R$ 0,00",
+      "Tendencia": "\uD83D\uDCC8 Baixa (0,00%)",
+      "DiasEmAlta": "\uD83D\uDCC5 0",
+      "DiasEmBaixa": "\uD83D\uDCC5 0"
+    }
+  ],
+  "CRI": [
+    {
+      "FII": "MXRF11",
+      "Pre\u00E7oAtual": "\uD83D\uDCB0 R$ 9,64",
+      "FechamentoAnterior": "\uD83D\uDCC9 R$ 9,66",
+      "VariacaoDiaria": "\uD83D\uDD01 -0,21%",
+      "Media5Dias": "\uD83D\uDCC6 R$ 0,00",
+      "Tendencia": "\uD83D\uDCC8 Baixa (0,00%)",
+      "DiasEmAlta": "\uD83D\uDCC5 0",
+      "DiasEmBaixa": "\uD83D\uDCC5 0"
+    },
+    {
+      "FII": "KNCR11",
+      "Pre\u00E7oAtual": "\uD83D\uDCB0 R$ 104,40",
+      "FechamentoAnterior": "\uD83D\uDCC9 R$ 104,35",
+      "VariacaoDiaria": "\uD83D\uDD01 0,05%",
+      "Media5Dias": "\uD83D\uDCC6 R$ 0,00",
+      "Tendencia": "\uD83D\uDCC8 Baixa (0,00%)",
+      "DiasEmAlta": "\uD83D\uDCC5 0",
+      "DiasEmBaixa": "\uD83D\uDCC5 0"
+    }
+  ],
+  "FundosDeFundos": [
+    {
+      "FII": "RBRF11",
+      "Pre\u00E7oAtual": "\uD83D\uDCB0 R$ 6,65",
+      "FechamentoAnterior": "\uD83D\uDCC9 R$ 6,53",
+      "VariacaoDiaria": "\uD83D\uDD01 1,84%",
+      "Media5Dias": "\uD83D\uDCC6 R$ 0,00",
+      "Tendencia": "\uD83D\uDCC8 Baixa (0,00%)",
+      "DiasEmAlta": "\uD83D\uDCC5 0",
+      "DiasEmBaixa": "\uD83D\uDCC5 0"
+    }
+  ]
+}

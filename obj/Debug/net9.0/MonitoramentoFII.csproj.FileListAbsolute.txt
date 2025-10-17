@@ -1,0 +1,15 @@
+C:\Users\rober\Desktop\MonitoramentoFII\bin\Debug\net9.0\MonitoramentoFII.exe
+C:\Users\rober\Desktop\MonitoramentoFII\bin\Debug\net9.0\MonitoramentoFII.deps.json
+C:\Users\rober\Desktop\MonitoramentoFII\bin\Debug\net9.0\MonitoramentoFII.runtimeconfig.json
+C:\Users\rober\Desktop\MonitoramentoFII\bin\Debug\net9.0\MonitoramentoFII.dll
+C:\Users\rober\Desktop\MonitoramentoFII\bin\Debug\net9.0\MonitoramentoFII.pdb
+C:\Users\rober\Desktop\MonitoramentoFII\obj\Debug\net9.0\MonitoramentoFII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Desktop\MonitoramentoFII\obj\Debug\net9.0\MonitoramentoFII.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\MonitoramentoFII\obj\Debug\net9.0\MonitoramentoFII.AssemblyInfo.cs
+C:\Users\rober\Desktop\MonitoramentoFII\obj\Debug\net9.0\MonitoramentoFII.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\MonitoramentoFII\obj\Debug\net9.0\MonitoramentoFII.dll
+C:\Users\rober\Desktop\MonitoramentoFII\obj\Debug\net9.0\refint\MonitoramentoFII.dll
+C:\Users\rober\Desktop\MonitoramentoFII\obj\Debug\net9.0\MonitoramentoFII.pdb
+C:\Users\rober\Desktop\MonitoramentoFII\obj\Debug\net9.0\MonitoramentoFII.genruntimeconfig.cache
+C:\Users\rober\Desktop\MonitoramentoFII\obj\Debug\net9.0\ref\MonitoramentoFII.dll
+C:\Users\rober\Desktop\MonitoramentoFII\bin\Debug\net9.0\appsettings.json

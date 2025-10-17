@@ -1,0 +1,75 @@
+{
+  "Lajes": [
+    {
+      "FII": "HGRU11",
+      "PrecoAtual": 126.49,
+      "FechamentoAnterior": 126.7,
+      "VariacaoDiaria": -0.166,
+      "Tendencia": "Baixa"
+    },
+    {
+      "FII": "PVBI11",
+      "PrecoAtual": 76.68,
+      "FechamentoAnterior": 76.58,
+      "VariacaoDiaria": 0.131,
+      "Tendencia": "Baixa"
+    }
+  ],
+  "Shoppings": [
+    {
+      "FII": "XPML11",
+      "PrecoAtual": 106,
+      "FechamentoAnterior": 106.9,
+      "VariacaoDiaria": -0.8420000000000001,
+      "Tendencia": "Baixa"
+    },
+    {
+      "FII": "HSML11",
+      "PrecoAtual": 83.9,
+      "FechamentoAnterior": 84.35,
+      "VariacaoDiaria": -0.5329999999999999,
+      "Tendencia": "Baixa"
+    }
+  ],
+  "Logistica": [
+    {
+      "FII": "HGLG11",
+      "PrecoAtual": 160.5,
+      "FechamentoAnterior": 160.5,
+      "VariacaoDiaria": 0,
+      "Tendencia": "Baixa"
+    },
+    {
+      "FII": "VILG11",
+      "PrecoAtual": 88.61,
+      "FechamentoAnterior": 88.7,
+      "VariacaoDiaria": -0.101,
+      "Tendencia": "Baixa"
+    }
+  ],
+  "CRI": [
+    {
+      "FII": "MXRF11",
+      "PrecoAtual": 9.64,
+      "FechamentoAnterior": 9.66,
+      "VariacaoDiaria": -0.207,
+      "Tendencia": "Baixa"
+    },
+    {
+      "FII": "KNCR11",
+      "PrecoAtual": 104.4,
+      "FechamentoAnterior": 104.35,
+      "VariacaoDiaria": 0.048,
+      "Tendencia": "Baixa"
+    }
+  ],
+  "FundosDeFundos": [
+    {
+      "FII": "RBRF11",
+      "PrecoAtual": 6.65,
+      "FechamentoAnterior": 6.53,
+      "VariacaoDiaria": 1.838,
+      "Tendencia": "Baixa"
+    }
+  ]
+}
